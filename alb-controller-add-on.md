@@ -1,4 +1,4 @@
-# How to setup alb add on
+# setup alb add on
 
 Download IAM policy
 
